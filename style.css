@@ -1,0 +1,60 @@
+.navbar {
+    background-color: blueviolet;
+    letter-spacing: 3px;
+    transition: all 0.5 ease-in-out;
+    position: fixed;
+    display: flex;
+    width: 100%;
+}
+
+.navbar-toggler-icon {
+    border: 2px solid fuchsia;
+    border-radius: 3px;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0 2px 4px black;
+}
+
+.navbar-toggler:hover {
+    background-color: yellow;
+}
+
+.offcanvas {
+    background-color: fuchsia;
+    color: blue;
+}
+
+.contenedor img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    background-size: 0%;
+    display: flex;
+}
+
+.button {
+    color: white;
+}
+
+h5{
+    background-color: fuchsia;
+    color: white;
+}
+
+h1 {
+    background-color: fuchsia;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+.margen-para-secciones.oscuro {
+    background-color: purple;
+    text-align: center;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+}
