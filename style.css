@@ -48,7 +48,13 @@ h1 {
     text-align: center;
 }
 
+ul.listas{
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: center;
+    margin-left: 10px;
 
+}
 
 .margen-para-secciones.oscuro {
     background-color: purple;
